@@ -68,7 +68,7 @@ ga_domain: gxdalu.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "天道酬勤"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/gxdalu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
